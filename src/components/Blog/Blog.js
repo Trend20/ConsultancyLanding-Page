@@ -16,7 +16,6 @@ export default function Blog() {
 
             <div className="blog-members">
                <i className="fas fa-angle-left"></i>
-
                 <div className="blog-details">
                 <div className="blog-image">
                    <img src="/img/project.webp" alt="project4"/>

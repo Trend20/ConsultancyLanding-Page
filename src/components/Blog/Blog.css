@@ -164,6 +164,7 @@
         justify-content: center;
         align-items: center;
         width: 90%;
+        flex-direction: column;
     }
     
     .blog-details{
@@ -171,6 +172,7 @@
         justify-content: center;
         align-items: center;
         width: 100%;
+        margin-top: 20px;
     }
     
     .blog-details img{
@@ -192,7 +194,7 @@
     }
     
     .blog-members i{
-            display: flex;
+            display: none;
             align-items: center;
             background: rgb(63, 133, 90);
             border-radius: 50%;
@@ -204,12 +206,12 @@
     
     .author{
         display: flex;
-        position: absolute;
+        position: relative;
         flex-direction: column;
-        top: 585%;
         color: #fff;
         padding-bottom: 10px;
-        margin-left: 20px;
+        margin-left: -50px;
+        margin-top: -100px;
     }
     
     .author img{
