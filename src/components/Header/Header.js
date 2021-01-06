@@ -21,6 +21,8 @@ class Header extends Component {
                         <li><a href="#" className="active">Contact</a></li>
                     </ul>
                 </nav>
+
+                <i className="fas fa-bars"></i>
             </header>
         )
     }
