@@ -54,28 +54,4 @@
         border: none;
         border-radius: 10px;
     }
-    
-    .icons{
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-    }
-    
-    #facebook i{
-        color: rgb(16, 110, 153);
-        font-size: 2rem;
-    }
-    
-    #algorithm i{
-        color: rgb(218, 42, 57);
-        font-size: 2rem;
-    }
-    #map i{
-        color: rgb(113, 188, 223);
-        font-size: 2rem;
-    }
-    #pinterest i{
-        color: rgb(231, 20, 90);
-        font-size: 2rem;
-    }    
 }
