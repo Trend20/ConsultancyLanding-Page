@@ -29,6 +29,8 @@
     background: rgb(72, 144, 102);
 }
 
+
+
 @media screen and (max-width: 480px){
     .sheet{
         display: flex;
@@ -42,10 +44,18 @@
     
     .sheet h1{
         display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        text-align: center;
     }
     
     .sheet h3{
         margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
     }
     
     .sheet button{

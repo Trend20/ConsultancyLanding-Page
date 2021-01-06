@@ -98,8 +98,9 @@ nav ul li a{
         width: 50%;
         flex-direction: column;
         position: absolute;
-        left: 30%;
-        top: 15%;
+        left: -10%;
+        top: 10%;
+        display: none;
     }
     
     
@@ -141,7 +142,7 @@ nav ul li a{
     .fa-bars{
         font-size: 2rem;
         left: 90%;
-        top: 6%;
+        top: 0%;
         position: absolute;
         display: block;
     }
